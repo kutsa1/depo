@@ -1,0 +1,1 @@
+vc-domain-verify=test.kapida.a101.com.tr,46d4a5df5ac717e9c77b
